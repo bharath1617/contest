@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+#button{
+    background: #000;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+span{
+    margin-left: 38px;
+}
+nav{
+    background: #000;
+    color: white;
+    padding: 25px;
+    font-size: 17px;
+}
+h1{
+    margin: 38px;
+}
+p{
+    margin: 38px;
+}
+a{
+    margin: 38px;
+}
+
+img{
+    margin: 38px;
+    width: 600px;
+    height: 600px;
+
+}
+div{
+    margin: 20px;
+}
+
+
